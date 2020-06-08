@@ -103,6 +103,7 @@
             line-height: 55px;
             text-align: center;
         }
+
     }
 
     p {
@@ -114,6 +115,16 @@
         span.number {
             background-color: $brand-color-dark;
             color: #000;
+            width: 55px;
+            height: 55px;
+            margin-right: 1.5rem;
+            line-height: 55px;
+            text-align: center;
+        }
+
+        span.icon {
+            background-color: transparent;
+            color: black;
             width: 55px;
             height: 55px;
             margin-right: 1.5rem;
