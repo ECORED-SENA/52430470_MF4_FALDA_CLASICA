@@ -34,13 +34,13 @@
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "2-tema-1",
+        "slug": "2-tema",
         "title": "2.1 Delantero",
         "anchor": "Delantero"
       },   
       {
         "icon": "fa fa-play-circle",
-        "slug": "2-tema-2",
+        "slug": "2-tema",
         "title": "2.2 Posterior ",
         "anchor": "Posterior"
       }   
@@ -66,7 +66,7 @@
     "id": 6,
     "icon": "fa fa-file-text",
     "slug": "5-tema",
-    "title": "6. Normas de calidad en la confección.",
+    "title": "5. Normas de calidad en la confección.",
     "breadcrumb": ["Inicio","Normas de calidad en la confección"],
     "path": "pages/5-tema.html"
   },  
@@ -74,7 +74,7 @@
     "id": 7,
     "icon": "fa fa-file-text",
     "slug": "didactica",
-    "title": "7. Actividad didáctica.",
+    "title": "6. Actividad didáctica.",
     "breadcrumb": ["Inicio","Actividad didáctica"],
     "path": "pages/didactica.html"
   }
