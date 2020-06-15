@@ -33,12 +33,12 @@
     "letter": "c",
     "terms": [
       {
-        "title": "Cremallera",
-        "desciption": "Sistema de cierre usado en indumentaria y accesorios, que tiene un mecanismo similar al de los piñones que se fijan por acomodación."
-      },
-      {
         "title": "Cierre",
         "desciption": "Es el sistema que le permite a la prenda  ubicarse y ajustarse sobre el cuerpo."
+      },
+      {
+        "title": "Cremallera",
+        "desciption": "Sistema de cierre usado en indumentaria y accesorios, que tiene un mecanismo similar al de los piñones que se fijan por acomodación."
       }
     ]
   }, 
