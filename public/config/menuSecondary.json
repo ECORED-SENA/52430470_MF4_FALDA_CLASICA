@@ -1,6 +1,12 @@
 [
     
     {
+        "icon": "fa fa-download",
+        "slug": "pdf",
+        "title": "Descargar PDF",
+        "path": "media/documentos/MF4_Confeccion_de_la_falda_clásica_segun_normas_de_calidad.pdf"
+    },
+    {
         "icon": "icon glosario",
         "slug": "glosario",
         "title": "Glosario",
