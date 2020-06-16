@@ -3,7 +3,7 @@
     "icon": "fa fa-home",
     "slug": "external",
     "title": "Volver al Inicio",
-    "path": "../index.html"
+    "path": "index.html"
   },  
   { 
     "id": 1,
